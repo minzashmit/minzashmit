@@ -38,13 +38,28 @@
 
 ---
 
-🧠 **Key Skills**
+## 🛠️ Skills & Expertise
 
-- ✔️ Problem Solving
-- ✔️ Teamwork
-- ✔️ Core Java & JDBC
-- ✔️ Web Development (HTML, CSS, JS)
-- ✔️ SDLC Understanding
+### 🌐 Web Development
+- 🔹 **Frontend**: HTML5, CSS3, JavaScript
+- 🔹 **Backend**: Java (Servlets), JDBC
+- 🔹 **Tools**: VS Code, Eclipse IDE
+- 🔹 **Concepts**: Responsive Design, Web Forms, SDLC
+
+### 👨‍💻 Programming & DSA
+- 💡 **Languages**: Java, C++, JavaScript
+- 💡 **Core Concepts**: Data Structures, Algorithms, Problem Solving
+- 💡 **Approach**: Object-Oriented Programming, Debugging
+
+### 🗃️ Databases & Tools
+- 🛢️ **Databases**: MySQL
+- 🧰 **Tools**: Git & GitHub, Eclipse, VS Code, Command Line
+
+### 🤝 Soft Skills
+- ✅ Team Collaboration
+- ✅ Fast Learning & Adaptability
+- ✅ Logical Thinking & Communication
+
 
 ---
 
