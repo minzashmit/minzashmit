@@ -48,16 +48,6 @@
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minzashmit&show_icons=true&theme=tokyonight" alt="Ashmit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minzashmit&theme=tokyonight" alt="Ashmit's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzashmit&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 💬 **Fun Fact**  
 I love debugging more than writing new code 😄
 
