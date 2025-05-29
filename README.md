@@ -1,33 +1,63 @@
-<h1 align="center">Hi 👋, I'm Ashmit</h1>
-<h3 align="center">Aspiring Developer | DSA Enthusiast | Open Source Learner</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
-
-- 🌱 I’m currently learning **MERN Stack, DSA, and Open Source**
-
-- 👯 I’m looking to collaborate on **full-stack web apps**
-
-- 💬 Ask me about **React, JavaScript, Java, DSA**
-
-- 📫 How to reach me **[your email/contact]**
-
-- ⚡ Fun fact: **I love debugging more than coding 😄**
-
----
-
-### 🛠️ Languages and Tools:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
+<h1 align="center">Hi 👋, I'm Ashmit Minj</h1>
+<h3 align="center">💻 Aspiring Full-Stack Developer | 📊 DSA Enthusiast | 🌐 Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minzashmit&show_icons=true&theme=radical" alt="Ashmit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minzashmit&theme=radical" alt="Ashmit's streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzashmit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="Coder gif" width="400"/>
 </p>
+
+---
+
+🎯 **About Me**
+
+- 🎓 Final Year BCA student at **IGNOU**
+- 💡 Passionate about solving real-world problems through smart tech
+- 💻 Enjoy working with **Java, C++, JavaScript, and Web Dev**
+- 🔍 Currently exploring the **MERN stack** and deepening my **DSA knowledge**
+- 🤝 Looking for internships and collaborations on web and software development projects
+
+📬 **Contact Me**
+
+- 📧 Email: [minzashmit@gmail.com](mailto:minzashmit@gmail.com)
+- 📱 Phone: +91-9910873662
+- 📍 Location: New Delhi, India
+
+---
+
+🛠️ **Tech Stack & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+🧠 **Key Skills**
+
+- ✔️ Problem Solving
+- ✔️ Teamwork
+- ✔️ Core Java & JDBC
+- ✔️ Web Development (HTML, CSS, JS)
+- ✔️ SDLC Understanding
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minzashmit&show_icons=true&theme=tokyonight" alt="Ashmit's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minzashmit&theme=tokyonight" alt="Ashmit's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzashmit&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+💬 **Fun Fact**  
+I love debugging more than writing new code 😄
+
